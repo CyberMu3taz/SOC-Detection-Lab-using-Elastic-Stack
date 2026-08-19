@@ -4,7 +4,7 @@ A home-lab Security Operations Center (SOC) environment built to practice log co
 
 ## Overview
 
-This project simulates a small enterprise environment monitored by a SIEM, with the goal of understanding how logs flow from an endpoint into a detection platform — and eventually, how attacks show up in that data.
+This project simulates a small enterprise environment monitored by a SIEM, with the goal of understanding how logs flow from an endpoint into a detection platform and eventually, how attacks show up in that data.
 
 ## Architecture
 

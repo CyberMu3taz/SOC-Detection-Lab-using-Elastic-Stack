@@ -35,8 +35,8 @@ Platform: VMware Workstation, isolated internal network.
 | Phase | Description | Status |
 |---|---|---|
 | 1 | [ELK Stack + Winlogbeat Setup](docs/01-elk-setup.md) — log collection foundation | ✅ Complete |
-| 2 | Attack Simulation (Kali) — port scanning, brute force, detection validation | 🔜 In progress |
-| 3 | Detection Rules & Alerting | ⏳ Planned |
+| 2 | [Attack Simulation & Detection](docs/02-attack-simulation.md) — RDP brute-force, live detection validation | ✅ Complete |
+| 3 | Detection Rules & Alerting | 🔜 In progress |
 
 ## Skills Demonstrated
 
